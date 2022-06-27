@@ -3,9 +3,6 @@ module.exports = {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
     extend: {
-      backgroundImage: {
-        blur: 'url(src/assets/bg-blur.png)',
-      },
       fontFamily: {
         sans: 'Roboto, sans-serif',
       },
